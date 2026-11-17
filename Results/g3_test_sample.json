@@ -1,0 +1,949 @@
+[
+  {
+    "paper_id":"1801.04433",
+    "paper_title":"Detecting Offensive Language in Tweets Using Deep Learning",
+    "question_id":"363d0cb0cd5c9a0b0364d61d95f2eff7347d5a36",
+    "question":"what results did their system obtain?",
+    "gold_evidence_ids":[
+      "S10_P0"
+    ],
+    "reference_answers":[
+      "The best model achieved a 0.9320 F-score",
+      "The best performing single classifier produces F1 0.9265. The best ensemble classifier  (O+NS+RS+NR+NRS) produce  F1 0.9320.",
+      "Best authors' system achieved 0.9320 F1 score."
+    ],
+    "answer_types":[
+      "free_form"
+    ]
+  },
+  {
+    "paper_id":"2002.00175",
+    "paper_title":"UIT-ViIC: A Dataset for the First Evaluation on Vietnamese Image Captioning",
+    "question_id":"8276671a4d4d1fbc097cd4a4b7f5e7fadd7b9833",
+    "question":"What deep neural network models are used in evaluation?",
+    "gold_evidence_ids":[
+      "S6_P0",
+      "S6_P1"
+    ],
+    "reference_answers":[
+      "encoder-decoder architecture of CNN for encoding and LSTM for decoding",
+      "CNN",
+      "RNN - LSTM"
+    ],
+    "answer_types":[
+      "extractive",
+      "free_form"
+    ]
+  },
+  {
+    "paper_id":"1901.05389",
+    "paper_title":"Location, Occupation, and Semantics based Socioeconomic Status Inference on Twitter",
+    "question_id":"892ee7c2765b3764312c3c2b6f4538322efbed4e",
+    "question":"How much data do they gather in total?",
+    "gold_evidence_ids":[
+      "S3_P0"
+    ],
+    "reference_answers":[
+      "90,369,215 tweets written in French, posted by 1.3 Million users",
+      "They created 3 datasets with combined size of 37193.",
+      "90,369,215 tweets"
+    ],
+    "answer_types":[
+      "extractive",
+      "free_form"
+    ]
+  },
+  {
+    "paper_id":"1912.08084",
+    "paper_title":"A Context-Aware Approach for Detecting Check-Worthy Claims in Political Debates",
+    "question_id":"56d788af4694c1cd1eebee0b83c585836d1f5f99",
+    "question":"What models are trained?",
+    "gold_evidence_ids":[
+      "S0_P7",
+      "S8_P0"
+    ],
+    "reference_answers":[
+      "Support Vector Machines (SVM) and Feed-forward Neural Networks (FNN) ",
+      "SVM classifier with an RBF kernel",
+      "deep feed-forward neural network (FNN) with two hidden layers (with 200 and 50 neurons, respectively) and a softmax output unit for the binary classification"
+    ],
+    "answer_types":[
+      "extractive"
+    ]
+  },
+  {
+    "paper_id":"2003.11687",
+    "paper_title":"Common-Knowledge Concept Recognition for SEVA",
+    "question_id":"6575ffec1844e6fde5a668bce2afb16b67b65c1f",
+    "question":"What metrics are used for evaluation?",
+    "gold_evidence_ids":[
+      "S7_P1"
+    ],
+    "reference_answers":[
+      "precision, recall, f1-score, and support",
+      "F1-score",
+      "Precision, recall, f1-score, and support."
+    ],
+    "answer_types":[
+      "extractive",
+      "free_form"
+    ]
+  },
+  {
+    "paper_id":"2004.01820",
+    "paper_title":"Aggressive, Repetitive, Intentional, Visible, and Imbalanced: Refining Representations for Cyberbullying Classification",
+    "question_id":"5a473f86052cf7781dfe40943ddf99bc9fe8a4e4",
+    "question":"What social-network features are used?",
+    "gold_evidence_ids":[
+      "S11_P0",
+      "S12_P0",
+      "S12_P1",
+      "S13_P0"
+    ],
+    "reference_answers":[
+      "Relative positions of the author and target accounts in the directed following network by\ncomputing modified versions of Jaccard\u2019s similarity index, friends count, followers count, verified status, number of tweets posted within 6 months.",
+      "Downward overlap, upward overlap, inward overlap, outward overlap, bidirectional overlap, count of friends of each user, count of followers of each user, users verified status, number of tweets posted within six-month snapshots",
+      " count the friends and followers of each user, their verified status, and the number of tweets posted within six-month snapshots of their timelines",
+      "Neighborhood Overlap"
+    ],
+    "answer_types":[
+      "extractive",
+      "free_form"
+    ]
+  },
+  {
+    "paper_id":"1603.07252",
+    "paper_title":"Neural Summarization by Extracting Sentences and Words",
+    "question_id":"0fe49431db5ffaa24372919daf24d8f84117bfda",
+    "question":"What dataset do they use?",
+    "gold_evidence_ids":[
+      "S0_P4",
+      "S0_P7",
+      "S2_P0",
+      "S2_P1"
+    ],
+    "reference_answers":[
+      "DUC 2002",
+      "DailyMail news articles",
+      "the benchmark DUC 2002 document summarization corpus",
+      "DailyMail news highlights corpus",
+      "DUC 2002 document summarization corpus",
+      "our own DailyMail news highlights corpus",
+      "our own Dailymail news highlights corpus"
+    ],
+    "answer_types":[
+      "extractive",
+      "free_form"
+    ]
+  },
+  {
+    "paper_id":"2004.02334",
+    "paper_title":"Neural Machine Translation with Imbalanced Classes",
+    "question_id":"23fe8431058f2a7b7588745766fc715f271aad07",
+    "question":"Which languages are explored?",
+    "gold_evidence_ids":[
+      "S6_P0"
+    ],
+    "reference_answers":[
+      "German (De) and English (En)",
+      "German (De) and English (En) languages",
+      "English",
+      "German"
+    ],
+    "answer_types":[
+      "extractive"
+    ]
+  },
+  {
+    "paper_id":"1908.10461",
+    "paper_title":"A survey of cross-lingual features for zero-shot cross-lingual semantic parsing",
+    "question_id":"b2dc0c813da92cf13d86528bd32c12286ec9b9cd",
+    "question":"How many lexical features are considered?",
+    "gold_evidence_ids":[
+      "S2_P0",
+      "S5_P3"
+    ],
+    "reference_answers":[
+      "3: In addition to word embedding, there is a POS tag embedding and a dependcy relation embedding.",
+      "False"
+    ],
+    "answer_types":[
+      "free_form",
+      "yes_no"
+    ]
+  },
+  {
+    "paper_id":"1908.07491",
+    "paper_title":"Controversy in Context",
+    "question_id":"4de6bcddd46726bf58326304b0490fdb9e7e86ec",
+    "question":"how was labeling done?",
+    "gold_evidence_ids":[
+      "S2_P2",
+      "S2_P3"
+    ],
+    "reference_answers":[
+      "The annotation instructions were: \u201cGiven a topic and its description on Wikipedia, mark if this is a topic that people are likely to argue about.\u201d. Average pairwise kappa agreement on this task was 0.532. Annotations were normalized to controversiality scores on an integer scale of 0 - 10.",
+      "As positive examples we take, from this list, all concepts which appear more than 50 times in Wikipedia.",
+      "10 or more annotators marked whether a topic was controversial or not. The score was then normalized on an integer scale of 0-10.",
+      "The annotation instructions were: \u201cGiven a topic and its description on Wikipedia, mark if this is a topic that people are likely to argue about.\u201d. After that, annotations were normalized to controversiality scores on an integer scale of 0 - 10",
+      "For negative examples, we follow BIBREF1, BIBREF4 and select a like number of concepts at random"
+    ],
+    "answer_types":[
+      "extractive",
+      "free_form"
+    ]
+  },
+  {
+    "paper_id":"1905.08067",
+    "paper_title":"Understanding the Radical Mind: Identifying Signals to Detect Extremist Content on Twitter",
+    "question_id":"824629b36a75753b1500d9dcaee0fc3c758297b1",
+    "question":"Which psychological features are used?",
+    "gold_evidence_ids":[
+      "S3_P4"
+    ],
+    "reference_answers":[
+      "number of 1st, 2nd, and 3rd personal pronouns used.",
+      "Extraversion",
+      "positive emotions",
+      "Clout",
+      "Openness",
+      "Conscientiousness",
+      "summary variable - analytically thinking, clout, tone, authentic, Big five variable - openness, conscientiousness, extraversion, agreeableness, neuroticism, Emotional variables - positive emotions in the text, negative emotions in the text, personal drives - power, reward, risk, achievement, affiliation, personal pronouns -  counts the number of 1st, 2nd, and 3rd personal pronouns used, Minkowski distance between each profile and average values of these features created from the ISIS magazines",
+      "personal drives, namely power, reward, risk, achievement, and affiliation",
+      "Neuroticism",
+      "Authentic",
+      "negative emotions",
+      "Tone",
+      "Agreeableness",
+      "Analytically thinking"
+    ],
+    "answer_types":[
+      "extractive",
+      "free_form"
+    ]
+  },
+  {
+    "paper_id":"1703.10152",
+    "paper_title":"Automatic Argumentative-Zoning Using Word2vec",
+    "question_id":"d0b967bfca2039c7fb05b931c8b9955f99a468dc",
+    "question":"What hand-crafted features are used?",
+    "gold_evidence_ids":[
+      "S0_P0",
+      "S0_P2"
+    ],
+    "reference_answers":[
+      "sentence length",
+      "qualifying adjectives",
+      "tense",
+      "meta-discourse features",
+      "position of sentence",
+      " sentences with their rhetorical status "
+    ],
+    "answer_types":[
+      "extractive"
+    ]
+  },
+  {
+    "paper_id":"1909.00091",
+    "paper_title":"Automatically Inferring Gender Associations from Language",
+    "question_id":"8b4bd0a962241ea548752212ebac145e2ced7452",
+    "question":"How do they discover coherent word clusters?",
+    "gold_evidence_ids":[
+      "S3_P0",
+      "S4_P0",
+      "S4_P1",
+      "S6_P0",
+      "S7_P0",
+      "S7_P1",
+      "S7_P2"
+    ],
+    "reference_answers":[
+      "First, we trained domain-specific word embeddings using the Word2Vec BIBREF33 CBOW model ($w \\in R^{100}$). Then, we used k-means clustering to cluster the embeddings of the gender-associated words. Since k-means may converge at local optima, we ran the algorithm 50 times and kept the model with the lowest sum of squared errors.",
+      "First, we trained domain-specific word embeddings",
+      "The authors first generated a set of words which are associated with each gender, then built domain-specific word embeddings and used k-means clustering to cluster the gendered word associations together.",
+      "Then, we used k-means clustering to cluster the embeddings of the gender-associated words",
+      "First, they  trained domain-specific word embeddings using the Word2Vec  model, then used k-means clustering to cluster the embeddings of the gender-associated words."
+    ],
+    "answer_types":[
+      "extractive",
+      "free_form"
+    ]
+  },
+  {
+    "paper_id":"1704.08390",
+    "paper_title":"Duluth at SemEval-2017 Task 6: Language Models in Humor Detection",
+    "question_id":"9a7aeecbecf5e30ffa595c233fca31719c9b429f",
+    "question":"What package was used to build the ngram language models?",
+    "gold_evidence_ids":[
+      "S4_P0"
+    ],
+    "reference_answers":[
+      "KenLM Toolkit"
+    ],
+    "answer_types":[
+      "extractive"
+    ]
+  },
+  {
+    "paper_id":"2003.08437",
+    "paper_title":"A Corpus of Adpositional Supersenses for Mandarin Chinese",
+    "question_id":"7d539258b948cd5b5ad1230a15e4b739f29ed947",
+    "question":"What inter-annotator agreement did they obtain?",
+    "gold_evidence_ids":[
+      "S12_P0",
+      "S12_P2"
+    ],
+    "reference_answers":[
+      "Raw agreement is around .90 for this dataset.",
+      "aw agreement and Cohen's kappa across three annotators computed by averaging three pairwise comparisons",
+      " two inter-annotator agreement ",
+      "The average agreement on scene, function and construal is 0.915"
+    ],
+    "answer_types":[
+      "extractive",
+      "free_form"
+    ]
+  },
+  {
+    "paper_id":"1911.04474",
+    "paper_title":"TENER: Adapting Transformer Encoder for Named Entity Recognition",
+    "question_id":"cb4086ad022197da79f28dc609d0de90108c4543",
+    "question":"Do they outperform current NER state-of-the-art models?",
+    "gold_evidence_ids":[
+      "S0_P9",
+      "S11_P0",
+      "S11_P1",
+      "S11_P2",
+      "S11_P3",
+      "S11_P4",
+      "S11_P5",
+      "S11_P6",
+      "S12_P0",
+      "S12_P1",
+      "S16_P0"
+    ],
+    "reference_answers":[
+      "we achieve state-of-the-art performance among models without considering the pre-trained language models or designed features",
+      "True",
+      "False"
+    ],
+    "answer_types":[
+      "extractive",
+      "yes_no"
+    ]
+  },
+  {
+    "paper_id":"1805.09960",
+    "paper_title":"Phrase Table as Recommendation Memory for Neural Machine Translation",
+    "question_id":"4b6745982aa64fbafe09f7c88c8d54d520b3f687",
+    "question":"what language pairs are explored?",
+    "gold_evidence_ids":[
+      "S0_P6"
+    ],
+    "reference_answers":[
+      "Chinese-English",
+      "English-Japanese",
+      "Chinese-English "
+    ],
+    "answer_types":[
+      "extractive"
+    ]
+  },
+  {
+    "paper_id":"1703.10090",
+    "paper_title":"A Short Review of Ethical Challenges in Clinical Natural Language Processing",
+    "question_id":"8c89f1d1b3c2a45c0254c4c8d6e700ab9a4b4ffb",
+    "question":"What sources of less sensitive data are available?",
+    "gold_evidence_ids":[
+      "S1_P0",
+      "S1_P1",
+      "S1_P2",
+      "S2_P10",
+      "S2_P11",
+      "S2_P12",
+      "S2_P9"
+    ],
+    "reference_answers":[
+      "veterinary texts",
+      "surrogate data",
+      "MIMICII(I), THYME, results from i2b2 and ShARe\/CLEF shared task, MiPACQ, Blulab, EMC Dutch Clinical Corpus, 2010 i2b2\/VA, VetCompass",
+      "deceased persons",
+      "derived data",
+      "personal health information of deceased persons",
+      "derived data. Data that can not be used to reconstruct the original text"
+    ],
+    "answer_types":[
+      "extractive",
+      "free_form"
+    ]
+  },
+  {
+    "paper_id":"1911.11025",
+    "paper_title":"Women, politics and Twitter: Using machine learning to change the discourse",
+    "question_id":"ebe6b8ec141172f7fea66f0a896b3124276d4884",
+    "question":"How are the hateful tweets aimed at women detected\/classified?",
+    "gold_evidence_ids":[
+      "S1_P3"
+    ],
+    "reference_answers":[
+      "classify a tweet by using, as features, the outputs from Perspective API from Jigsaw BIBREF10, HateSonar BIBREF11, and VADER sentiment models BIBREF12",
+      "The text analysis models classify a tweet by using, as features, the outputs from Perspective API from Jigsaw BIBREF10, HateSonar BIBREF11, and VADER sentiment models BIBREF12"
+    ],
+    "answer_types":[
+      "extractive"
+    ]
+  },
+  {
+    "paper_id":"1910.07154",
+    "paper_title":"Unsupervised Question Answering for Fact-Checking",
+    "question_id":"905a8d775973882227549e960c7028e4a3561752",
+    "question":"How was the masking done?",
+    "gold_evidence_ids":[
+      "S1_P0",
+      "S2_P1"
+    ],
+    "reference_answers":[
+      "The named entities are then used to generate the questions by masking the entities for the subsequent stage.",
+      "similar to a Cloze-task or masked language modeling task where the named entities are masked with a blank"
+    ],
+    "answer_types":[
+      "extractive"
+    ]
+  },
+  {
+    "paper_id":"1602.07563",
+    "paper_title":"Multilingual Twitter Sentiment Classification: The Role of Human Annotators",
+    "question_id":"4683812cba21c92319be68c03260b5a8175bbb6e",
+    "question":"What statistical test(s) is used to compare the top classification models?",
+    "gold_evidence_ids":[
+      "S14_P3",
+      "S3_P4"
+    ],
+    "reference_answers":[
+      " Friedman-Nemenyi test BIBREF14 , BIBREF15",
+      " Friedman-Nemenyi test"
+    ],
+    "answer_types":[
+      "extractive"
+    ]
+  },
+  {
+    "paper_id":"1908.07491",
+    "paper_title":"Controversy in Context",
+    "question_id":"e831ce6c406bf5d1c493162732e1b320abb71b6f",
+    "question":"where does their dataset come from?",
+    "gold_evidence_ids":[
+      "S2_P1",
+      "S2_P2",
+      "S2_P3"
+    ],
+    "reference_answers":[
+      "The topics from Wikipedia list of controversial issues that appear more than 50 times in Wikipedia, topics with their Wikipedia pages under edit protection.",
+      "Wikipedia ",
+      "Wikipedia list of controversial issues",
+      "concepts whose Wikipedia pages are under edit protection"
+    ],
+    "answer_types":[
+      "extractive",
+      "free_form"
+    ]
+  },
+  {
+    "paper_id":"1902.10246",
+    "paper_title":"Fixed-Size Ordinally Forgetting Encoding Based Word Sense Disambiguation",
+    "question_id":"4367617c0b8c9f33051016e8d4fbb44831c54d0f",
+    "question":"What is the state-of-the-art model?",
+    "gold_evidence_ids":[
+      "S0_P1",
+      "S7_P0"
+    ],
+    "reference_answers":[
+      "BIBREF4",
+      "LSTM"
+    ],
+    "answer_types":[
+      "extractive",
+      "free_form"
+    ]
+  },
+  {
+    "paper_id":"2002.09616",
+    "paper_title":"\"Wait, I'm Still Talking!\"Predicting the Dialogue Interaction Behavior Using Imagine-Then-Arbitrate Model",
+    "question_id":"3b9da1af1550e01d2e6ba2b9edf55a289f5fa8e2",
+    "question":"By how much does their model outperform the baseline?",
+    "gold_evidence_ids":[
+      "S12_P1"
+    ],
+    "reference_answers":[
+      "Best model outperforms baseline by 1.98% on MultiWoz dataset and .67% on DailyDialogue dataset",
+      "Best accuracy result of proposed model is 82.73, 79.35 compared to best baseline result of 80.75, 78.68 on MultiWoz and DailyDialogue datasets respectively."
+    ],
+    "answer_types":[
+      "free_form"
+    ]
+  },
+  {
+    "paper_id":"1709.05295",
+    "paper_title":"And That's A Fact: Distinguishing Factual and Emotional Argumentation in Online Dialogue",
+    "question_id":"74cc0300e22f60232812019011a09df92bbec803",
+    "question":"Do they report results only on English data?",
+    "gold_evidence_ids":[
+      "S2_P1"
+    ],
+    "reference_answers":[
+      "True"
+    ],
+    "answer_types":[
+      "yes_no"
+    ]
+  },
+  {
+    "paper_id":"1709.06136",
+    "paper_title":"Iterative Policy Learning in End-to-End Trainable Task-Oriented Neural Dialog Models",
+    "question_id":"30870a962cf88ac8c8e6b7b795936fd62214f507",
+    "question":"Which neural network architecture do they use for the dialog agent and user simulator?",
+    "gold_evidence_ids":[
+      "S3_P0",
+      "S4_P0"
+    ],
+    "reference_answers":[
+      "LSTM",
+      "Similar to the design of the dialog agent, state of the user simulator is maintained in the state of an LSTM.",
+      "State of the dialog agent is maintained in the LSTM BIBREF35"
+    ],
+    "answer_types":[
+      "extractive"
+    ]
+  },
+  {
+    "paper_id":"1802.03052",
+    "paper_title":"WorldTree: A Corpus of Explanation Graphs for Elementary Science Questions supporting Multi-Hop Inference",
+    "question_id":"7d34cdd9cb1c988e218ce0fd59ba6a3b5de2024a",
+    "question":"How many tables are in the tablestore?",
+    "gold_evidence_ids":[
+      "S6_P1"
+    ],
+    "reference_answers":[
+      "62"
+    ],
+    "answer_types":[
+      "extractive"
+    ]
+  },
+  {
+    "paper_id":"1911.06815",
+    "paper_title":"Experiments in Detecting Persuasion Techniques in the News",
+    "question_id":"37b972a3afae04193411dc569f672d802c16ad71",
+    "question":"What are the propaganda types?",
+    "gold_evidence_ids":[
+      "S1_P0"
+    ],
+    "reference_answers":[
+      "Although not all of the 18 types are listed, they include using loaded language or appeal to authority and slogans, using logical fallacies such as strawmen, hidden ad-hominen fallacies ad red herrings.",
+      "annotated according to eighteen persuasion techniques BIBREF4"
+    ],
+    "answer_types":[
+      "extractive",
+      "free_form"
+    ]
+  },
+  {
+    "paper_id":"1908.05908",
+    "paper_title":"BERT-Based Multi-Head Selection for Joint Entity-Relation Extraction",
+    "question_id":"4c7ec282697f4f6646eb1c19f46bbaf8670b0de6",
+    "question":"What is the weak supervision signal used in Baidu Baike corpus?",
+    "gold_evidence_ids":[
+      "S8_P0"
+    ],
+    "reference_answers":[
+      "consider the title of each sample as a pseudo label and conduct NER pre-training",
+      "NER Pretraining"
+    ],
+    "answer_types":[
+      "extractive"
+    ]
+  },
+  {
+    "paper_id":"1911.06815",
+    "paper_title":"Experiments in Detecting Persuasion Techniques in the News",
+    "question_id":"0c4e419fe57bf01d58a44f3e263777c22cdd90dc",
+    "question":"What datasets did they use in their experiment?",
+    "gold_evidence_ids":[
+      "S1_P0"
+    ],
+    "reference_answers":[
+      "A dataset of news articles from different news outlets collected by the authors.",
+      "451 news articles from 48 news outlets, both propagandistic and non-propagandistic according to Media Bias\/Fact Check, which professionals annotators annotated according to eighteen persuasion techniques BIBREF4",
+      "retrieved 451 news articles from 48 news outlets, both propagandistic and non-propagandistic according to Media Bias\/Fact Check, which professionals annotators annotated according to eighteen persuasion techniques"
+    ],
+    "answer_types":[
+      "extractive",
+      "free_form"
+    ]
+  },
+  {
+    "paper_id":"1612.07486",
+    "paper_title":"Continuous multilinguality with language vectors",
+    "question_id":"f37b01e0c366507308fca44c20d3f69621b94a6e",
+    "question":"How do they show genetic relationships between languages?",
+    "gold_evidence_ids":[
+      "S6_P0",
+      "S6_P1"
+    ],
+    "reference_answers":[
+      "By doing hierarchical clustering of word vectors",
+      "hierarchical clustering",
+      "By applying hierarchical clustering on language vectors found during training"
+    ],
+    "answer_types":[
+      "extractive",
+      "free_form"
+    ]
+  },
+  {
+    "paper_id":"2003.07568",
+    "paper_title":"XPersona: Evaluating Multilingual Personalized Chatbot",
+    "question_id":"7125db8334a7efaf9f7753f2c2f0048a56e74c49",
+    "question":"Which translation pipelines do they use to compare against?",
+    "gold_evidence_ids":[
+      "S16_P0",
+      "S17_P0",
+      "S18_P0",
+      "S19_P0"
+    ],
+    "reference_answers":[
+      "M-Bert2Bert",
+      "Translate source sentence to English with Google Translate API and then translate the result to the target language with Poly-encoder.",
+      "Bert2Bert",
+      "M-CausalBert",
+      "Poly-encoder BIBREF75",
+      "CausalBert",
+      "Google Translate API",
+      "XNLG"
+    ],
+    "answer_types":[
+      "extractive",
+      "free_form"
+    ]
+  },
+  {
+    "paper_id":"1708.00549",
+    "paper_title":"Improved Representation Learning for Predicting Commonsense Ontologies",
+    "question_id":"52faf319e37aa15fff1ab47f634a5a584dc42e75",
+    "question":"What types of commonsense knowledge are they talking about?",
+    "gold_evidence_ids":[
+      "S0_P0",
+      "S0_P3",
+      "S0_P5",
+      "S1_P0",
+      "S1_P1"
+    ],
+    "reference_answers":[
+      "Knowledge than an ordinary person would have such as transitive entailment relation, complex ordering, compositionality, multi-word entities",
+      "the collection of information that an ordinary person would have",
+      "Hypernymy or is-a relations between words or phrases",
+      "hypernym relations"
+    ],
+    "answer_types":[
+      "extractive",
+      "free_form"
+    ]
+  },
+  {
+    "paper_id":"1911.07620",
+    "paper_title":"Exploiting Token and Path-based Representations of Code for Identifying Security-Relevant Commits",
+    "question_id":"f71b95001dce46ee35cdbd8d177676de19ca2611",
+    "question":"What regularization methods are used?",
+    "gold_evidence_ids":[
+      "S6_P0",
+      "S6_P1"
+    ],
+    "reference_answers":[
+      "embedding dropout",
+      "dropout",
+      "DropBlock"
+    ],
+    "answer_types":[
+      "extractive"
+    ]
+  },
+  {
+    "paper_id":"1909.01860",
+    "paper_title":"Visual Question Answering using Deep Learning: A Survey and Performance Analysis",
+    "question_id":"4e1293592e41646a6f5f0cb00c75ee8de14eb668",
+    "question":"What is an example of a common sense question?",
+    "gold_evidence_ids":[
+      "S1_P2"
+    ],
+    "reference_answers":[
+      "How many giraffes are drinking water?",
+      "Can you park here?\nIs something under the sink broken?\nDoes this man have children?"
+    ],
+    "answer_types":[
+      "free_form"
+    ]
+  },
+  {
+    "paper_id":"1808.07231",
+    "paper_title":"Reducing Gender Bias in Abusive Language Detection",
+    "question_id":"4ddc53afffaf1622d97695347dd1b3190d156dee",
+    "question":"What model architectures are used?",
+    "gold_evidence_ids":[
+      "S5_P0"
+    ],
+    "reference_answers":[
+      "Convolutional Neural Network (CNN)",
+      "Gated Recurrent Unit",
+      "Convolutional Neural Network",
+      "Bidirectional GRU with self-attention ( INLINEFORM0 -GRU)",
+      "Gated Recurrent Unit (GRU)",
+      "Bidirectional GRU with self-attention"
+    ],
+    "answer_types":[
+      "extractive"
+    ]
+  },
+  {
+    "paper_id":"1910.03177",
+    "paper_title":"Read, Highlight and Summarize: A Hierarchical Neural Semantic Encoder-based Approach",
+    "question_id":"4738158f92b5b520ceba6207e8029ae082786dbe",
+    "question":"What are previoius similar models authors are referring to?",
+    "gold_evidence_ids":[
+      "S10_P0"
+    ],
+    "reference_answers":[
+      "HierAttn \nabstractive model \nPointer Generator \nPointer Generator + coverage \nMLE+RL, with intra-attention\n DCA, MLE+RL\nPlain NSE",
+      "Abstractive and extractive models from Nallapati et al., 2016, Pointer generator models with and without coverage from See et al., 2017, and Reinforcement Learning models from Paulus et al., 2018, and Celikyilmaz et al., 2018."
+    ],
+    "answer_types":[
+      "free_form"
+    ]
+  },
+  {
+    "paper_id":"1606.02892",
+    "paper_title":"Linguistic Input Features Improve Neural Machine Translation",
+    "question_id":"df623717255ea2c9e0f846859d8a9ef51dc1102b",
+    "question":"What type of attention do they use in the decoder?",
+    "gold_evidence_ids":[
+      "S1_P3"
+    ],
+    "reference_answers":[
+      "Generalized attention",
+      "weighted sum of the annotations"
+    ],
+    "answer_types":[
+      "extractive",
+      "free_form"
+    ]
+  },
+  {
+    "paper_id":"1911.04128",
+    "paper_title":"A hybrid text normalization system using multi-head self-attention for mandarin",
+    "question_id":"539f5c27e1a2d240e52b711d0a50a3a6ddfa5cb2",
+    "question":"How do they deal with imbalanced datasets?",
+    "gold_evidence_ids":[
+      "S4_P1"
+    ],
+    "reference_answers":[
+      "add loss control in the model",
+      "add loss control",
+      "data expansion using oversampling"
+    ],
+    "answer_types":[
+      "extractive"
+    ]
+  },
+  {
+    "paper_id":"1706.04206",
+    "paper_title":"Identifying Condition-Action Statements in Medical Guidelines Using Domain-Independent Features",
+    "question_id":"5c17559749810c67c50a7dbe34580d5e3b4f9acb",
+    "question":"Does the supervised machine learning approach outperform previous work?",
+    "gold_evidence_ids":[
+      "S1_P1",
+      "S5_P3"
+    ],
+    "reference_answers":[
+      "False"
+    ],
+    "answer_types":[
+      "yes_no"
+    ]
+  },
+  {
+    "paper_id":"1909.00091",
+    "paper_title":"Automatically Inferring Gender Associations from Language",
+    "question_id":"a3e7d7389228a197c8c44e0c504a791b60f2c80d",
+    "question":"How do they decide what is the semantic concept label of particular cluster?",
+    "gold_evidence_ids":[
+      "S7_P1",
+      "S7_P2",
+      "S7_P3",
+      "S7_P4",
+      "S7_P5"
+    ],
+    "reference_answers":[
+      "Our algorithm is similar to BIBREF28's approach, but we extend their method by introducing domain-specific word embeddings for clustering",
+      "Candidate label ranking: Here, we rank the synsets in $L$. We want labels that are as close to all of the synsets in $S^*$ as possible; thus, we score the candidate labels by the sum of their distances to each synset in $S^*$ and we rank them from least to most distance.",
+      "They automatically  label the cluster using WordNet and context-sensitive strengths of domain-specific word embeddings",
+      "Given a cluster, our algorithm proceeds with the following three steps:\n\nSense disambiguation: The goal is to assign each cluster word to one of its WordNet synsets; let $S$ represent the collection of chosen synsets. We know that these words have been clustered in domain-specific embedding space, which means that in the context of the domain, these words are very close semantically. Thus, we choose $S^*$ that minimizes the total distance between its synsets.\n\nCandidate label generation: In this step, we generate $L$, the set of possible cluster labels. Our approach is simple: we take the union of all hypernyms of the synsets in $S^*$.\n\nCandidate label ranking: Here, we rank the synsets in $L$. We want labels that are as close to all of the synsets in $S^*$ as possible; thus, we score the candidate labels by the sum of their distances to each synset in $S^*$ and we rank them from least to most distance.\n\nIn steps 1 and 3, we use WordNet pathwise distance, but we encourage the exploration of other distance representations as well."
+    ],
+    "answer_types":[
+      "extractive",
+      "free_form"
+    ]
+  },
+  {
+    "paper_id":"1901.05389",
+    "paper_title":"Location, Occupation, and Semantics based Socioeconomic Status Inference on Twitter",
+    "question_id":"08c0d4db14773cbed8a63e69381a2265e85f8765",
+    "question":"Where are the professional profiles crawled from?",
+    "gold_evidence_ids":[
+      "S5_P1"
+    ],
+    "reference_answers":[
+      "LinkedIn"
+    ],
+    "answer_types":[
+      "extractive"
+    ]
+  },
+  {
+    "paper_id":"2002.03056",
+    "paper_title":"autoNLP: NLP Feature Recommendations for Text Analytics Applications",
+    "question_id":"9be9354eeb2bb1827eeb1e23a20cfdca59fb349a",
+    "question":"How this system recommend features for the new application?",
+    "gold_evidence_ids":[
+      "S9_P1"
+    ],
+    "reference_answers":[
+      "estimating its semantic proximity (from the perspective of a NLP data scientist) with existing applications with known features",
+      "system would recommend features for the new application in a ranked order",
+      "Based upon these proximity estimates as well as expected relevance of features for existing applications, system would recommend features for the new application in a ranked order"
+    ],
+    "answer_types":[
+      "extractive"
+    ]
+  },
+  {
+    "paper_id":"1611.02378",
+    "paper_title":"A Surrogate-based Generic Classifier for Chinese TV Series Reviews",
+    "question_id":"283d358606341c399e369f2ba7952cd955326f73",
+    "question":"Is manual annotation performed?",
+    "gold_evidence_ids":[
+      "S5_P0",
+      "S8_P2"
+    ],
+    "reference_answers":[
+      "True"
+    ],
+    "answer_types":[
+      "yes_no"
+    ]
+  },
+  {
+    "paper_id":"1708.07252",
+    "paper_title":"A Study on Neural Network Language Modeling",
+    "question_id":"e6f5444b7c08d79d4349e35d5298a63bb30e7004",
+    "question":"What directions are suggested to improve language models?",
+    "gold_evidence_ids":[
+      "S13_P0",
+      "S13_P1"
+    ],
+    "reference_answers":[
+      "Improved architecture for ANN, use of linguistical properties of words or sentences as features.",
+      "gate recurrent unit (GRU) RNNLM, dropout strategy for addressing overfitting, character level neural network language model and ect."
+    ],
+    "answer_types":[
+      "extractive",
+      "free_form"
+    ]
+  },
+  {
+    "paper_id":"1708.07690",
+    "paper_title":"Revisiting the Centroid-based Method: A Strong Baseline for Multi-Document Summarization",
+    "question_id":"157de5175259d6f25db703efb299f948dae597b7",
+    "question":"what is the original model they refer to?",
+    "gold_evidence_ids":[
+      "S0_P3",
+      "S1_P0"
+    ],
+    "reference_answers":[
+      "BIBREF0 , BIBREF6",
+      "it represents sentences as bag-of-word (BOW) vectors with TF-IDF weighting and uses a centroid of these vectors to represent the whole document collection",
+      "Original centroid-based model by BIBREF5"
+    ],
+    "answer_types":[
+      "extractive",
+      "free_form"
+    ]
+  },
+  {
+    "paper_id":"1612.03762",
+    "paper_title":"From narrative descriptions to MedDRA: automagically encoding adverse drug reactions",
+    "question_id":"ab37ae82e38f64d3fa95782f2c791488f26cd43f",
+    "question":"Do the authors offer a hypothesis as to why the system performs better on short descriptions than longer ones?",
+    "gold_evidence_ids":[
+      "S13_P4",
+      "S9_P8"
+    ],
+    "reference_answers":[
+      "False"
+    ],
+    "answer_types":[
+      "yes_no"
+    ]
+  },
+  {
+    "paper_id":"1610.00479",
+    "paper_title":"Nonsymbolic Text Representation",
+    "question_id":"b21f61c0f95fefdb1bdb90d51cbba4655cd59896",
+    "question":"In their nonsymbolic representation can they represent two same string differently depending on the context?",
+    "gold_evidence_ids":[
+      "S0_P4"
+    ],
+    "reference_answers":[
+      "False"
+    ],
+    "answer_types":[
+      "yes_no"
+    ]
+  },
+  {
+    "paper_id":"1911.11025",
+    "paper_title":"Women, politics and Twitter: Using machine learning to change the discourse",
+    "question_id":"a9ff35f77615b3a4e7fd7b3a53d0b288a46f06ce",
+    "question":"What public online harassment datasets was the system validated on?",
+    "gold_evidence_ids":[
+      "S10_P0"
+    ],
+    "reference_answers":[
+      " unique tweets identified as either hateful and not hateful from previous research BIBREF22",
+      "20194 cleaned, unique tweets identified as either hateful and not hateful from previous research BIBREF22"
+    ],
+    "answer_types":[
+      "extractive"
+    ]
+  },
+  {
+    "paper_id":"1908.05925",
+    "paper_title":"Incorporating Word and Subword Units in Unsupervised Machine Translation Using Language Model Rescoring",
+    "question_id":"59a3d4cdd1c3797962bf8d72c226c847e06e1d44",
+    "question":"What are the post-processing approaches applied to the output?",
+    "gold_evidence_ids":[
+      "S15_P0",
+      "S16_P0",
+      "S17_P0",
+      "S23_P0"
+    ],
+    "reference_answers":[
+      "unknown words replacement",
+      "Quotes Fixing",
+      "Recaser",
+      " Patch-up",
+      "Special Token Replacement"
+    ],
+    "answer_types":[
+      "extractive"
+    ]
+  }
+]

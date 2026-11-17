@@ -1,0 +1,3 @@
+Condition,Mean token F1,Exact Match rate,Mean inference time (s)
+A — Answer-only,0.12291740586647208,0.06,1.01472
+B — Evidence-attributed,0.11322454074864967,0.08,0.65062
